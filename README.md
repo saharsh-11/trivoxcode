@@ -349,7 +349,7 @@ The result is TRIVOXCODE — proof that sub-10B open-source models can achieve c
 ## 📄 License
 
 ```
-MIT License — Free to use, modify, and distribute for personal and commercial projects.
+Apache2.0 License — Free to use, modify, and distribute for personal and commercial projects.
 ```
 
 Built with ❤️ and 24 hours of sleepless engineering by **Saharsh Kashyap** at **TrivoX Technologies**.
