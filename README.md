@@ -52,7 +52,7 @@
 ### 🔎 Live Web Search in Action
 ![Search Demo](assets/search_demo.png)
 
-### 📊 Full-Stack Dashboard Built Autonomously
+### 📊 Chat Dashboard 
 ![Dashboard](assets/chat_dashboard.png)
 
 ### 🧠 AI Research Saved to File
@@ -260,7 +260,7 @@ trivoxcode/
 ├── pyproject.toml       # ⚡ One-line global 'trivox' command installer
 ├── requirements.txt     # 📦 Python dependencies
 ├── README.md            # 📖 This file
-├── LICENSE              # ⚖️  MIT License
+├── LICENSE              # ⚖️  Apache2.0 License
 ├── .gitignore           # 🚫 Ignores cache, config, memory files
 └── assets/
     └── setup_demo.gif   # 🎬 First-time setup demo recording
