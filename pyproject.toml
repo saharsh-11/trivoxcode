@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trivox-code"
+version = "2.0.0"
+description = "Autonomous Multi-Agent AI Coding CLI for Local 7B/9B Models by TrivoX Technologies"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests",
+    "rich",
+    "prompt_toolkit",
+    "duckduckgo-search",
+    "ddgs",
+    "beautifulsoup4"
+]
+
+# 👇 Isse terminal me sabhi jagah 'trivox' command enter karte hi app khul jayega!
+[project.scripts]
+trivox = "trivox_code:main"

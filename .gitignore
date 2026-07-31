@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Package build files (ye GitHub pe nahi jaani chahiye)
+*.egg-info/
+dist/
+build/
+
+# TRIVOXCODE personal config files
+.trivox_config.json
+.trivox_memory.json
+
+# Environment
+.env
+.venv/
